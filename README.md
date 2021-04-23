@@ -1,2 +1,2 @@
-# SmartMirror
-HTML And CSS
+# smartmirror-test
+html and css
